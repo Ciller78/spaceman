@@ -112,7 +112,7 @@ footer {
 h2 {
   color: var(--platinum);
 }
-@media screen and (min-width: 460px) {
+@media screen and (min-width: 300px) {
   .dropdown ul {
     flex-direction: row;
   }
@@ -141,7 +141,7 @@ h2 {
   }
 }
 
-@media screen and (min-width: 460px) {
+@media screen and (min-width: 300px) {
   .dropdown ul li {
     position: relative;
     display: flex;
